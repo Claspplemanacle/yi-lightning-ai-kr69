@@ -1,4 +1,4 @@
-# 
+# Elite Yi-Lightning scripts. Com pipelines de dados e agentes colaborativos — otimizado para máximo desempenho e eficiência.
 
 
 
